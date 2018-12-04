@@ -37,7 +37,7 @@ pip3 install -r requirements.txt
 ### Spin up a Redis container
 
 ```
-docker run -e REDIS_PASSWORD=waddup --name squatme-redis -p 6379:6379 bitnami/redis
+docker run -d -e REDIS_PASSWORD=waddup --name squatme-redis -p 6379:6379 bitnami/redis
 
 ```
 
