@@ -4,3 +4,9 @@
 *.bak
 .idea
 __pycache__
+.README.md.un~
+README.md~
+squatm3-api/.requirements.txt.un~
+squatm3-api/Dockerfile
+squatm3-api/requirements.txt~
+
